@@ -1,0 +1,1 @@
+This is sample 2 file creation in local and pushing to github via bash commands
